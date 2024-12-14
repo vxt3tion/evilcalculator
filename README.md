@@ -1,6 +1,6 @@
-## CAUTION
+# CAUTION
 
-# I am not responsible for any damage that may occur to your computer. Use at your own risk.
+### I am not responsible for any damage that may occur to your computer. Use at your own risk.
 
 ## evil calculator
 
